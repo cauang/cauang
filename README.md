@@ -1,5 +1,5 @@
 
 ### Olá Eu Sou o Cauan 🦊
 
-- 🎓Atualmente estou no primeiro semestre de Engenharia de Software na Universidade Federal do Ceará;
-- 🌱 As linguagens que estudo atualmente são: Python, Java e C;
+- 🎓Estudante de Ciência da Computação;
+- 🌱 Alguns projetos pessoais que salvo aq;
