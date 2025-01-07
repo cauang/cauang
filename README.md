@@ -1,4 +1,4 @@
-## Olá, Mundo! eu sou a Cauan Gomes, aspirante de programação e tecnologia!
+## Olá, Mundo! <br> eu sou a Cauan Gomes, aspirante de programação e tecnologia!
 Algumas das tecnologias que estou em processo de aprendizado e aparecerão em repositórios posteriores
 
 <div style="display: inline_block"><br>
