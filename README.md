@@ -10,7 +10,7 @@
   <ul>
     <li>👩‍💻<strong> Estagiário de TI</strong></li>
     <li>👽 <strong>Software Developer | Devops | Data Analytic</strong></li>
-    <li>🎓 <strong>Graduando</strong> em Desenvolvimento de Cieência da Computação - UNIFOR</li>
+    <li>🎓 <strong>Graduando</strong> em Desenvolvimento de Ciência da Computação - UNIFOR</li>
     
   </ul>
 </div>
