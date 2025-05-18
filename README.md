@@ -9,7 +9,7 @@
 <div style="text-align: left; padding: 20px 0;">
   <ul>
     <li>👩‍💻<strong> Estagiário de TI</strong></li>
-    <li>👽 <strong>Software Developer | Devops | Data Analytic</strong></li>
+    <li>👽 <strong>Software Developer | BackEnd </strong></li>
     <li>🎓 <strong>Graduando</strong> em Desenvolvimento de Ciência da Computação - UNIFOR</li>
     
   </ul>
