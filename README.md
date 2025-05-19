@@ -10,7 +10,7 @@
 <div style="text-align: left; ;">
   <ul>
     <li>👩‍💻<strong> Estagiário de TI</strong></li>
-    <li>👽 <strong>Software Developer | BackEnd </strong></li>
+    <li>👽 <strong>Software Developer </strong></li>
     <li>🎓 <strong>Graduando em Ciência da Computação - UNIFOR</strong></li>   
   </ul>
 </div>
