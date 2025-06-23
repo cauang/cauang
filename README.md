@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdjbjl6MzAzeXF4Z2U2OWRzejB4Mnduam52aHMzNXk3MDlucjRnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp3GUtG2waC88/giphy.gif" width="100%" />
-</div>
-<hr>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=44B862&width=435&separator=%3C&lines=Be+Welcome!+%3CCauan+Gomes+;)" alt="Typing SVG">
 </a>
