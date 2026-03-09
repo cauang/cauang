@@ -5,7 +5,6 @@
 <!-- Informações com emojis alinhadas à esquerda -->
 <div style="text-align: left; ;">
   <ul>
-    <li>👩‍💻<strong> Estagiário de TI</strong></li>
     <li>👾 <strong>Desenvolvedor de Software</strong></li>
     <li>🎓 <strong>Graduando em Ciência da Computação - UNIFOR</strong></li>   
   </ul>
