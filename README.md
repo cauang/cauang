@@ -17,7 +17,9 @@
 <details>
 <summary>👨‍💻 Sobre mim</summary>
 
-- 🧠 Interesses focados em **Desenvolvimento Full Stack, APIs RESTful e Bancos de Dados (MongoDB)** - 💼 Experiência prévia em infraestrutura, suporte técnico e criação de automações utilizando **Python, PowerShell, Shell Script e JavaScript** - 🌱 Atualmente focando no desenvolvimento de novas aplicações utilizando **Angular e Firebase**
+- 🧠 Interesses focados em **Desenvolvimento Full Stack, APIs RESTful e Bancos de Dados**<br>
+- 💼 Experiência prévia em infraestrutura e criação de automações utilizando **Python, PowerShell, Shell Script e JavaScript**<br> 
+- 🌱 Atualmente focando no desenvolvimento de aplicações Web **Angular e SpringBoot**<br> 
 
 Sempre em busca de aplicar boas práticas de desenvolvimento e compartilhar conhecimento!
 </details>
@@ -44,4 +46,4 @@ Sempre em busca de aplicar boas práticas de desenvolvimento e compartilhar conh
 
 ---
 
-⭐ Sempre aberto para aprender novas tecnologias e colaborar em projetos interessantes.
+⭐ Sempre aberto para aprender novas tecnologias e colaborar em projetos.
