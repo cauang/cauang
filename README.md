@@ -36,6 +36,3 @@ Sempre em busca de aplicar boas práticas de desenvolvimento e compartilhar conh
 | :-: | :-: |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cauang&theme=radical) | ![](https://streak-stats.demolab.com?user=cauang&theme=tokyonight&hide_border=false) |
 
----
-
-⭐
