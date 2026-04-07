@@ -23,13 +23,12 @@ Sempre em busca de aplicar boas práticas de desenvolvimento e compartilhar conh
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-gomes-b10334200/)
 
 ---
-
-# 🛠 Tecnologias e Ferramentas
+ 🛠 Tecnologias e Ferramentas
 
 <img src="https://skillicons.dev/icons?i=spring,java,nodejs,react,angular,tailwind,python,mongodb,firebase,git,github,html,css" />
 
 
-# 📊 Estatísticas
+ 📊 Estatísticas
 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cauang&theme=radical)  | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cauang&theme=radical) |
