@@ -15,7 +15,7 @@
 
 -  Interests focused on **Full Stack Development, RESTful APIs, and Databases**
 -  Previous experience in infrastructure and automation using **Python, PowerShell, Shell Script, and JavaScript**
--  Currently focused on building web applications with **Angular and Spring Boot**
+-  Currently focused on building web applications with **Angular and Spring Boot** and **AI Applications**
 -  Always looking to apply best development practices and share knowledge
 
 </details>
