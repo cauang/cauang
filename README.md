@@ -7,8 +7,6 @@
   Software Developer focused on Backend, APIs, and Software Architecture.
 </p>
 
----
-
 <details>
 <summary> About Me</summary>
 <br>
@@ -20,10 +18,6 @@
 
 </details>
 
----
-
 <img align="right" src="https://komarev.com/ghpvc/?username=cauang&color=blue">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-gomes-b10334200/)
-
----
